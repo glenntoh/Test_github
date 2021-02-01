@@ -1,2 +1,6 @@
 # Test_github
-This is repository to test github in class
+
+Added
+- list 1
+List 2
+
